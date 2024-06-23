@@ -1,6 +1,6 @@
 # Rock-Paper-Scissors-Game-using-Python
-‪C:\Users\IC\Downloads\hat.JPG
-Rock, Paper, Scissors Game
+
+](https://github.com/BushraAkram111/Rock-Paper-Scissors-Game-using-Python/blob/main/Image.JPG)Rock, Paper, Scissors Game
 
 Description
 
